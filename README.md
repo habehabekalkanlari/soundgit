@@ -1,3 +1,4 @@
+<img width="3514" height="1854" alt="soundgit" src="https://github.com/user-attachments/assets/bc156502-bbca-473e-a516-2043e376e4bc" />
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
